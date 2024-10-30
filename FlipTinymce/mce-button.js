@@ -1,0 +1,1 @@
+tinymce.PluginManager.add("BL_CDFC_button",function(n,t){n.addButton("BL_CDFC_button",{title:"CountDown FlipClock",icon:"flipclock",onclick:function(){n.insertContent('[FlipClock id="Put the FlipClock ID here!"]')}})})
